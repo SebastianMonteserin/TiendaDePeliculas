@@ -1,0 +1,29 @@
+.detalles {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  text-align: center;
+}
+
+.info {
+  display: flex;
+}
+
+.foto {
+  margin-left: 20px;
+}
+
+.sinopsis {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.datos {
+  width: 1200px;
+  margin-left: 100px;
+  margin-top: 150px;
+  flex-direction: column;
+}
